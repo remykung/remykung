@@ -6,10 +6,8 @@ I am a student who is on the way to be a software engineer <img src="https://med
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800" height="300" 
 style="float:right;width:500px;height:200px;"/>
-- 🌱 I’m currently learning Python, Javascript, Typescript and Firebase.
-- 👯 I’m looking to collaborate on Python.
-- 🤔 I’m looking for help with Javascript, Typescript and Firebase.
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning Python, Javascript and Typescript.
+- 👯 I’m looking to collaborate on Python, Javascript, Typescript and React.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
