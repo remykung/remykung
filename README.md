@@ -2,8 +2,8 @@
 
 ### :woman_technologist: About Me :
 
-I am a student who is on the way to be a software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- 🌱 I’m currently learning Python, Javascript and Typescript.
+I am a student who is on the way to be a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- 🌱 I’m currently learning React, Javascript and Typescript.
 - 👯 I’m looking to collaborate on Python, Javascript, Typescript and React.
 ---
 
