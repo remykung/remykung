@@ -4,7 +4,7 @@
 
 I am a student who is on the way to be a web developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - 🌱 I’m currently learning React, Javascript and Typescript.
-- 👯 I’m looking to collaborate on Python, Javascript, Typescript and React.
+- 👯 I’m looking to collaborate on Python, Javascript, Typescript, Angular and  React.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
